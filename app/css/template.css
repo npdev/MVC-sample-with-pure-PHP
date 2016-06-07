@@ -1,0 +1,53 @@
+*{
+    margin:0; 
+    padding:0; 
+}
+body{
+    text-align: left;
+    background: #fff;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Arial, Verdana, sans-serif;
+    font: normal 14px/140% "Lucida Grande", "Lucida Sans Unicode",Geneva,Arial,Verdana,sans-serif;
+    color: #333333;
+}
+body a{
+    border: 0;
+    text-decoration: none;
+    cursor: pointer;
+    color: #8D8D8D;
+}
+#wrapper{
+    width: 908px;
+    margin: 0 auto;
+}
+div#header {
+    width: 100%;
+    height: 200px;
+    margin: 100px 0 0 0;
+    font: normal normal 51px/120% 'Lucida Grande',Geneva,Arial,Verdana,sans-serif;
+    color: #8D8D8D;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    font-size: 50px;
+    text-align: center;
+}
+#quote-title{
+    font-size: 18px;
+    text-align: left;
+    margin-left: -155px;
+    font-weight: 400;
+}
+a img, img {
+    border: 0;
+}
+#content{
+    padding-left: 170px;
+}
+footer{
+    width: 908px;
+    margin: 50px auto;
+    font-size: 12px;
+    height: 20px;
+    vertical-align: top;
+}
+footer a{
+    float: left;
+}
